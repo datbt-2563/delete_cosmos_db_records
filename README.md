@@ -1,6 +1,7 @@
 ﻿# delete_record_cosmos_db
 
 Run commands:
+- `cp .env.exmaple .env`
 - `yarn install`
 - `yarn dev`
 
